@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "REACHING FOR THE SKY",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2026-01-14T02:41:46.844711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Balflare",
+      "has_synced": false,
+      "path": "select/01_Reaching_for_the_Sky_Balflare.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reaching For The Sky",
+      "artist": "Peabo Bryson",
+      "has_synced": true,
+      "path": "select/02_Reaching_For_The_Sky_Peabo_Bryson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Dionne Warwick",
+      "has_synced": false,
+      "path": "select/03_Reaching_for_the_Sky_Dionne_Warwick.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Warwick, Dionne",
+      "has_synced": false,
+      "path": "select/04_Reaching_for_the_Sky_Warwick,_Dionne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Lionville",
+      "has_synced": false,
+      "path": "select/05_Reaching_for_the_Sky_Lionville.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Transatlantic",
+      "has_synced": true,
+      "path": "select/06_Reaching_for_the_Sky_Transatlantic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reaching for the Sky, Pt. 1",
+      "artist": "Hanson",
+      "has_synced": false,
+      "path": "select/07_Reaching_for_the_Sky,_Pt._1_Hanson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reaching For The Sky (Part 1)",
+      "artist": "Hanson",
+      "has_synced": false,
+      "path": "select/08_Reaching_For_The_Sky_(Part_1)_Hanson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reaching For The Sky Pt. 2",
+      "artist": "Hanson",
+      "has_synced": false,
+      "path": "select/09_Reaching_For_The_Sky_Pt._2_Hanson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reaching for the Sky (Part 2)",
+      "artist": "Hanson",
+      "has_synced": false,
+      "path": "select/10_Reaching_for_the_Sky_(Part_2)_Hanson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Dionne Warwick",
+      "has_synced": false,
+      "path": "select/11_Reaching_for_the_Sky_Dionne_Warwick.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reaching for the Sky",
+      "artist": "Peabo Bryson",
+      "has_synced": true,
+      "path": "select/12_Reaching_for_the_Sky_Peabo_Bryson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Reaching for the Sky Above",
+      "artist": "Star Insight",
+      "has_synced": true,
+      "path": "select/13_Reaching_for_the_Sky_Above_Star_Insight.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REACHING FOR THE SKY",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_REACHING_FOR_THE_SKY_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
